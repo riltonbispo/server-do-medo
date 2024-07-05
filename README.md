@@ -9,7 +9,3 @@ Mods Server Instalados:
 - Traveler's Backpack
 - FallingTree
 - Skin Restorer
-
-Plugins No Server:
-- ChestLock
-https://www.spigotmc.org/resources/chest-lock-with-automatic-sorting.81204/
